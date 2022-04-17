@@ -1,0 +1,8 @@
+C:\Users\DELL\source\Generic-MaxNumber-main\GenericMaxValue\GenericMaxValue\bin\Debug\GenericMaxValue.exe.config
+C:\Users\DELL\source\Generic-MaxNumber-main\GenericMaxValue\GenericMaxValue\bin\Debug\GenericMaxValue.exe
+C:\Users\DELL\source\Generic-MaxNumber-main\GenericMaxValue\GenericMaxValue\bin\Debug\GenericMaxValue.pdb
+C:\Users\DELL\source\Generic-MaxNumber-main\GenericMaxValue\GenericMaxValue\obj\Debug\GenericMaxValue.csproj.AssemblyReference.cache
+C:\Users\DELL\source\Generic-MaxNumber-main\GenericMaxValue\GenericMaxValue\obj\Debug\GenericMaxValue.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\Generic-MaxNumber-main\GenericMaxValue\GenericMaxValue\obj\Debug\GenericMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Generic-MaxNumber-main\GenericMaxValue\GenericMaxValue\obj\Debug\GenericMaxValue.exe
+C:\Users\DELL\source\Generic-MaxNumber-main\GenericMaxValue\GenericMaxValue\obj\Debug\GenericMaxValue.pdb

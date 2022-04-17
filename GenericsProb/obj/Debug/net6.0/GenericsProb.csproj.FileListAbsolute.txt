@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\bin\Debug\net6.0\GenericsProb.exe
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\bin\Debug\net6.0\GenericsProb.deps.json
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\bin\Debug\net6.0\GenericsProb.runtimeconfig.json
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\bin\Debug\net6.0\GenericsProb.dll
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\bin\Debug\net6.0\GenericsProb.pdb
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\GenericsProb.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\GenericsProb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\GenericsProb.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\GenericsProb.AssemblyInfo.cs
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\GenericsProb.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\GenericsProb.dll
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\refint\GenericsProb.dll
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\GenericsProb.pdb
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\GenericsProb.genruntimeconfig.cache
+C:\Users\DELL\source\repos\GenericsProb\GenericsProb\obj\Debug\net6.0\ref\GenericsProb.dll
